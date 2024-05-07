@@ -2,7 +2,7 @@ workflows:
   Firebase App Distribution Workflow:  # Replace with the actual ID of the existing workflow
     publishing:
       app_store_connect:
-        api_key: Encrypted(Z0FBQUFBQmhVallHUy1TaVBwcnVzWkwwbk9lb0FhUm0yOGZCa3pKVkpaWXgxYzRIdHBDQlVNUlVNNm9BQ2U3T0x3dU1hNWV6SklPNDBVeUJfYVNnTFREeHpneUJ2Z2dSRzl6WUxySUN0aU5aOGpYR3VRMURXcnRTX2JEMUgwUWtyc0U4WmlDRy1aa0dKanZ3alZWXy0wU1lVMHZsY25rdmxIbmIzXzRCMmdOT0dPTjRENnVKTUFpZDhERU5WXzZXem56MlMzQnp2Yy1fQmZFcTNYNjNFTl9aU0xhOXFGUVA4YTdZWmwtbHhGMFFZcWtpWGk1ZzNuQ2UtNHBDcFAzQTE0dU9uRHFhMDZQaEpkZjdvMnhpMWJyWnpTeTNfeWRGd1pnTmhkdVhuWjFFT2VPVEhfeURLeXFVWHROQjRkQzZfeGgtS2lJbUFMc21rRzh6Mm9SVWhrRmlkLWd3X0luME1KeGVOc3JIbnAzRF9xNUp4VmtMOHJXTTVLalVOWjNpZDA0V2dlMW50NDVqSF83U2pKNUNXVTRPVWRrWVkzRktwZV9CSXl2V0M5UjlEWkpGWWVfOVdlRT0=)  # Contents of the API key, can also reference environment variable
+        api_key: gAAAAABhUjYGS-SiPprusZL0nOeoAaRm28fBkzJVJZYx1c4HtpCBUMRUM6oACe7OLwuMa5ezJIO40UyB_aSgLTDxzgyBvggRG9zYLrICtiNZ8jXGuQ1DWrtS_bD1H0QkrsE8ZiCG-ZkGJjvwjVV_-0SYU0vlcnkvlHnb3_4B2gNOGON4D6uJMAid8DENV_6Wznz2S3Bzvc-_BfEq3X63EN_ZSLa9qFQP8a7YZl-lxF0QYqkiXi5g3nCe-4pCpP3A14uOnDqa06PhJdf7o2xi1brZzSy3_ydFwZgNhduXnZ1EOeOTH_yDKyqUXtNB4dC6_xh-KiImALsmkG8z2oRUhkFid-gw_In0MJxeNsrHnp3D_q5JxVkL8rWM5KjUNZ3id04Wge1nt45jH_7SjJ5CWU4OUdkYY3FKpe_BIyvWC9R9DZJFYe_9WeE=
         key_id: 9H3T4F5LSU  # Alphanumeric value that identifies the API key, can also reference environment variable
         issuer_id: 69a6de82-0d8b-47e3-e053-5b8c7c11a4d1  # Unique identifier for the API key, can also reference environment variable
     # Other workflow configurations can be defined here
